@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PooTheCoopWebGL.data.unityweb",
+"asmCodeUrl": "PooTheCoopWebGL.asm.code.unityweb",
+"asmMemoryUrl": "PooTheCoopWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "PooTheCoopWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
